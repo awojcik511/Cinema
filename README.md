@@ -8,7 +8,7 @@ Easy and simple web page to cinema. Created using:
 
 ### Installation
 
-This page requires XAMPP to run. Install it and start the server. Use localhost to create database **kino1** and use it 
+This page requires XAMPP to run. Install it and start the server. Use phpMyAdmin to create database **kino1** and use it 
 ```sh
 CREATE DATABASE kino1;
 USE kino1;
