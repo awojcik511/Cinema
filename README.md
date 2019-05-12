@@ -23,10 +23,10 @@ and then import **kino1.sql**
 #### Purchase of tickets
  ![login.html](img/bilety.png)
 #### Shopping cart
- ![solar1.html](img/koszyk.png)
+ ![Shopping cart](img/koszyk.png)
 #### Cinema offer
- ![login.html](img/oferta.png)
+ ![Cinema offer](img/oferty.png)
 #### Cinema repertoire
- ![solar1.html](img/repertuar.png)
+ ![Cinema repertoire](img/repertuar.png)
 
 [Materialize]: <https://materializecss.com/getting-started.html>
